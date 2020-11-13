@@ -3,7 +3,8 @@
     {
       "data": {
         "id": "1",
-        "label": "P"
+        "label": "P",
+        "name": "changeColor"
       }
     },
     {
